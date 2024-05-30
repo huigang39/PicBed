@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T09:13:35.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="M409FbAL1-nz_Ip_iJjN" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:14:40.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Rk23-6hZWmKPB85qi9s5" version="24.4.10" type="github">
   <diagram name="第 1 页" id="bCNPC1Wj3j-4zLxV8QfG">
     <mxGraphModel dx="352" dy="240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -16,10 +16,10 @@
             <mxPoint x="480" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CBYcRYqiomnFLM2rLD_o-3" value="&lt;b&gt;&lt;i&gt;q&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="387" y="140" width="20" height="20" as="geometry" />
+        <mxCell id="CBYcRYqiomnFLM2rLD_o-3" value="$$q$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="140" width="17" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="CBYcRYqiomnFLM2rLD_o-4" value="&lt;b&gt;&lt;i&gt;d&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="CBYcRYqiomnFLM2rLD_o-4" value="$$d$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="390" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CBYcRYqiomnFLM2rLD_o-5" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" edge="1">
