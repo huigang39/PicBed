@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T09:10:05.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="B3IqdPB45BuZkcDjribo" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:11:21.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ZjjvharKkcHlAhw0A8jp" version="24.4.10" type="github">
   <diagram name="第 1 页" id="Ph3KIddQlzAOe2n3hxQD">
     <mxGraphModel dx="422" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TGoqplp5DYFJDb6npShz-12" value="$$E$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="550" y="266.5" width="14" height="25" as="geometry" />
+          <mxGeometry x="550" y="271" width="14" height="17.75" as="geometry" />
         </mxCell>
         <mxCell id="TGoqplp5DYFJDb6npShz-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,8 +59,8 @@
             <mxPoint x="320" y="249" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGoqplp5DYFJDb6npShz-14" value="$$u_{s}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="336.5" y="266.5" width="20" height="25" as="geometry" />
+        <mxCell id="TGoqplp5DYFJDb6npShz-14" value="$$\vec{\mathbf{u}}_{s}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="336.5" y="268.25" width="20" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="TGoqplp5DYFJDb6npShz-15" value="&lt;b&gt;AC Supply&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="261.5" width="50" height="34" as="geometry" />
