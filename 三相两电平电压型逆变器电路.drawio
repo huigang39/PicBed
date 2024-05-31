@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-31T11:26:00.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="_qK5ha18mEGbsAyUK87G" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-31T11:26:39.817Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Hi7xpXSV6MF6hvXsd3Ii" version="24.4.10" type="github">
   <diagram name="第 1 页" id="DNwWSseMJjnDS3e5h9JO">
-    <mxGraphModel dx="934" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="454" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,16 @@
         </mxCell>
         <mxCell id="YVI3GV2rdjETqO3KnNFN-20" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="677" y="281.71" width="100" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="YVI3GV2rdjETqO3KnNFN-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.645;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YVI3GV2rdjETqO3KnNFN-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="496.9999999999998" y="310" as="targetPoint" />
+            <mxPoint x="635" y="377" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="600" y="377" />
+              <mxPoint x="600" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="YVI3GV2rdjETqO3KnNFN-21" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_5;rotation=-60;" vertex="1" parent="1">
           <mxGeometry x="601" y="325.71" width="100" height="14" as="geometry" />
