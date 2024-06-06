@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T09:36:38.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="_eA5DhJeg39R_V79VLvJ" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T09:37:30.854Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="oVcMl9GxTD8gQCmfSr-W" version="24.4.13" type="github">
   <diagram name="第 1 页" id="f8YywHsEjH6FdnHRCllN">
-    <mxGraphModel dx="234" dy="161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="230" dy="159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,11 @@
         </mxCell>
         <mxCell id="HIBAQgxya3U2K_z9rvxj-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$1.25\rm{kHz}$$&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIBAQgxya3U2K_z9rvxj-20">
           <mxGeometry x="-0.0107" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIBAQgxya3U2K_z9rvxj-28" value="$$\theta_{feedback}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIBAQgxya3U2K_z9rvxj-20">
+          <mxGeometry x="0.8833" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
