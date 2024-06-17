@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T08:34:29.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="EaVbn79W_WF0PzccWDqF" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T08:35:49.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="a6JY0-S6hyk3lDZCINgm" version="24.5.4" type="github">
   <diagram name="第 1 页" id="f8YywHsEjH6FdnHRCllN">
-    <mxGraphModel dx="956" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1116" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         </mxCell>
         <mxCell id="HIBAQgxya3U2K_z9rvxj-30" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$q_{j}$$&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="HIBAQgxya3U2K_z9rvxj-20" vertex="1" connectable="0">
           <mxGeometry x="0.8866" relative="1" as="geometry">
-            <mxPoint x="20" y="-51" as="offset" />
+            <mxPoint x="20" y="-61" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HIBAQgxya3U2K_z9rvxj-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HIBAQgxya3U2K_z9rvxj-10" target="HIBAQgxya3U2K_z9rvxj-4" edge="1">
@@ -102,7 +102,7 @@
         </mxCell>
         <mxCell id="HIBAQgxya3U2K_z9rvxj-31" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$\dot{q}_{j} G_{\omega}$$&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="HIBAQgxya3U2K_z9rvxj-21" vertex="1" connectable="0">
           <mxGeometry x="0.8034" y="-1" relative="1" as="geometry">
-            <mxPoint x="25" y="-59" as="offset" />
+            <mxPoint x="25" y="-69" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HIBAQgxya3U2K_z9rvxj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HIBAQgxya3U2K_z9rvxj-10" target="HIBAQgxya3U2K_z9rvxj-8" edge="1">
@@ -151,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HIBAQgxya3U2K_z9rvxj-43" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;$$I_{q_{feedback_{j}}}$$&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1241.004577899711" y="350.0033514424864" as="geometry" />
+          <mxGeometry x="1241.004577899711" y="360.0033514424864" as="geometry" />
         </mxCell>
         <mxCell id="h92efnEn3jgeTVQK39Qd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="HIBAQgxya3U2K_z9rvxj-8" target="h92efnEn3jgeTVQK39Qd-1" edge="1">
           <mxGeometry relative="1" as="geometry">
